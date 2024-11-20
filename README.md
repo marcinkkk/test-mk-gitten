@@ -31,6 +31,15 @@ This repository contains the setup for a **Docusaurus** site enhanced with **Ins
 * **CMS Support**: Seamlessly integrate with CMS tools like DHub or Insighter.
 * **Automated Deployment**: Deployment is managed by a `deploy.yml` GitHub Actions workflow triggered by changes in the `build` branch.
 
+
+
+| a  | b | c |
+| -- | - | - |
+| c  | c | c |
+| cd | d | d |
+
+
+
 ## Prerequisites
 
 * **Node.js** and **npm** installed on your machine.
